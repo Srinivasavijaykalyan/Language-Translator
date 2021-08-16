@@ -1,4 +1,5 @@
 # Language Translator
+#Tkinter
 Tkinter Programming
 Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 Tkinter is a Python Package for creating GUI applications. Python has a lot of GUI frameworks, but Tkinter is the only framework that's built into the Python standard library. Tkinter has several strengths; it's cross-platform, so the same code works on Windows, macOS, and Linux
